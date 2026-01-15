@@ -1,7 +1,29 @@
 ## 🧠💪 Sistema de Reconocimiento de Movimientos de la Muñeca con Señales EMG
 
-Héctor A. Roca Pérez
-Ingeniero Electrónico | Análisis de Señales | Machine Learning aplicado a Bioingeniería
+## 👥 Autores
+
+Proyecto desarrollado de manera colaborativa por:
+
+Yerson D. Díaz Carreño, Ingeniero Electrónico
+
+Osmel D. Navarro Meza, Ingeniero Electrónico
+
+Héctor A. Roca Pérez, Ingeniero Electrónico
+
+📌 Repositorio mantenido por Héctor A. Roca Pérez como parte de su portafolio profesional.
+
+## 🏫 Institución
+
+Universidad Popular del Cesar
+Facultad de Ingenierías y Tecnológicas
+Programa de Ingeniería Electrónica
+
+## 🎓 Dirección Académica
+
+Ing. Lorena Paola Vargas Quintero, MSc, Ph. D
+
+Ing. Leiner Barba Jiménez, MSc, Ph. D
+
 
 ## Resumen:
 
@@ -29,6 +51,72 @@ Desarrollar un esquema de caracterización de las señales EMG adquiridas utiliz
 Implementar un clasificador de las señales de EMG caracterizadas utilizando un método de aprendizaje de máquinas. 
 
 Validar todo el sistema desarrollado utilizando métricas de desempeño adecuadas 
+
+## 👥 Participantes
+
+El estudio contó con la participación voluntaria de miembros de la Universidad Popular del Cesar, incluyendo estudiantes y docentes.
+
+- Total de participantes: 80
+
+- Hombres: 57
+
+- Mujeres: 23
+
+- Rango de edad: 20 a 27 años
+
+Adicionalmente, se registraron datos antropométricos como peso y altura para el cálculo del Índice de Masa Corporal (IMC), con el fin de analizar su posible influencia en la captación de las señales EMG
+
+## 📈 Datos Recolectados
+
+Para cada participante se adquirieron:
+
+- Señales EMG crudas de superficie
+
+- Registros asociados a:
+
+  - Flexión de la muñeca
+
+  - Extensión de la muñeca
+
+- Dos repeticiones por cada tipo de movimiento
+
+- Etiquetado del movimiento correspondiente
+
+- Información básica del sujeto (anonimizada)
+
+Las señales fueron almacenadas en formato .xlsx, facilitando su lectura y procesamiento posterior
+
+## Protocolo de Medición
+
+El protocolo experimental se desarrolló bajo condiciones controladas:
+
+- El participante se sentó frente a un computador portátil que proporcionaba seguimiento visual de los estímulos.
+
+- Cada sujeto realizó movimientos repetidos de:
+
+ - Flexión y extensión de la muñeca.
+
+- Cada gesto fue:
+
+  - Sostenido durante 3 segundos
+
+  - Seguido por una pausa de 2 segundos
+
+- Se realizaron 2 repeticiones por movimiento.
+
+- El rango de movimiento fue aproximadamente:
+
+ - 90° para flexión
+
+ - 60° para extensión 
+
+## Consideraciones Éticas
+
+- Todos los participantes firmaron un consentimiento informado.
+
+- Los datos fueron anonimizados mediante identificadores.
+
+- La información fue utilizada exclusivamente con fines académicos y de investigación
 
 ## ⚙️ Arquitectura del Sistema
 
@@ -103,32 +191,4 @@ Validar todo el sistema desarrollado utilizando métricas de desempeño adecuada
 - Buen desempeño en precisión y estabilidad.
 - Sistema de bajo costo y alta escalabilidad.
 
-## 👥 Autores
 
-Proyecto desarrollado de manera colaborativa por:
-
-Yerson D. Díaz Carreño
-
-Osmel D. Navarro Meza
-
-Héctor A. Roca Pérez
-
-📌 Repositorio mantenido por Héctor A. Roca Pérez como parte de su portafolio profesional.
-
-## 🏫 Institución
-
-Universidad Popular del Cesar
-Facultad de Ingenierías y Tecnológicas
-Programa de Ingeniería Electrónica
-
-## 🎓 Dirección Académica
-
-Ing. Lorena Paola Vargas Quintero, MSc, Ph. D
-
-Ing. Leiner Barba Jiménez, MSc, Ph. D
-
-## 📄 Estado del Proyecto
-
-✔️ Proyecto académico finalizado
-✔️ Escalable a más gestos y señales
-✔️ Base sólida para sistemas en tiempo real y aplicaciones embebidas
