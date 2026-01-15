@@ -12,19 +12,6 @@ Héctor A. Roca Pérez, Ingeniero Electrónico
 
 📌 Repositorio mantenido por Héctor A. Roca Pérez como parte de su portafolio profesional.
 
-## 🏫 Institución
-
-Universidad Popular del Cesar
-Facultad de Ingenierías y Tecnológicas
-Programa de Ingeniería Electrónica
-
-## 🎓 Dirección Académica
-
-Ing. Lorena Paola Vargas Quintero, MSc, Ph. D
-
-Ing. Leiner Barba Jiménez, MSc, Ph. D
-
-
 ## Resumen:
 
 Este proyecto presenta el diseño e implementación de un sistema inteligente para el reconocimiento de los movimientos de flexión y extensión de la muñeca, a partir de señales electromiográficas (EMG) de superficie.
