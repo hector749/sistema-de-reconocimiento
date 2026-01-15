@@ -11,7 +11,8 @@ El sistema integra hardware biomédico, procesamiento de señales en el dominio 
 
 El desarrollo abarca todo el flujo del sistema:
 
-<img width="320" height="451" alt="image" src="https://github.com/user-attachments/assets/3a570b65-8118-4423-8982-0b39021517ff" />
+![proceso](https://github.com/user-attachments/assets/5948a4fc-5ed6-4720-85ba-181ce4bb8ae4)
+
 
 ## 🎯 Objetivos
 
