@@ -16,17 +16,17 @@ El desarrollo abarca todo el flujo del sistema:
 
 ## 🎯 Objetivos
 
--objetivo General:
+- Objetivo General:
 
-Implementar un sistema de análisis y procesamiento de señales electromiografías que permita el reconocimiento y clasificación de los  movimientos de flexión y extensión de la muñeca. 
+Implementar un sistema de análisis y procesamiento de señales electromiográficas que permita reconocer y clasificar los movimientos de flexión y extensión de la muñeca. 
 
--objetivos Específicos:
+- Objetivos Específicos:
 
-Construir un sistema de adquisición y filtrado de señales EMG que capturen información de los movimientos de flexión y extensión de la mano. 
+Construir un sistema de adquisición y filtrado de señales EMG que capture información de los movimientos de flexión y extensión de la mano. 
 
 Desarrollar un esquema de caracterización de las señales EMG adquiridas utilizando métodos de extracción de información de tiempo-frecuencia. 
 
-Implementar un clasificador de las señales de EMG caracterizadas utilizando un método aprendizaje de máquinas. 
+Implementar un clasificador de las señales de EMG caracterizadas utilizando un método de aprendizaje de máquinas. 
 
 Validar todo el sistema desarrollado utilizando métricas de desempeño adecuadas 
 
